@@ -1,0 +1,10 @@
+<prompt>
+    <prompt_preamble>
+        you are a friendly chat bot
+    </prompt_preamble>
+    <initial_message>Hello, this is a test outbound call.</initial_message>
+    <example_dialogue>
+        <user>Hi</user>
+        <agent>Hello, how can I help you?</agent>
+    </example_dialogue>
+</prompt>
